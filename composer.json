@@ -1,0 +1,22 @@
+{
+    "name": "zend-advanced-module/zend-advanced-module",
+    "description": "Zend Module With Database Configuration",
+    "license": "BSD-2-Clause",
+    "type": "library",
+    "version": "1.0.0",
+    "keywords": [
+        "framework",
+        "zf2"
+    ],
+    "homepage": "http://msuxel.msbios.com",
+    "authors": [
+        {
+            "name": "Judzhin Miles",
+            "email": "info@msbios.com",
+            "homepage": "http://msbios.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
